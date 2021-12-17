@@ -23,7 +23,8 @@ email: noway@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Maybe I'll write stuff, maybe not.
 url: "https://rbarry82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/rbarry82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: rbarry82/rbarry82.github.io
 markdown: kramdown
 twitter_username: Uhh
 github_username: rbarry82
